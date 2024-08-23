@@ -1,0 +1,37 @@
+.heading {
+    background-color: rgb(235, 94, 118);
+    padding: 20px; /* added padding to create space */
+}
+
+#logo {
+    color: white;
+    font-size: 24px; /* added font size to make it more prominent */
+}
+
+.anchor {
+    position: absolute;
+    right: 20px; /* adjusted right position to 20px */
+    top: 20px; /* adjusted top position to 20px */
+}
+
+.anchor p {
+    margin: 0;
+    font-size: 18px; /* adjusted font size */
+    color: white;
+}
+
+.anchor p:hover {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.anchor a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px; /* adjusted font size */
+    padding: 5px;
+}
+
+.anchor a:hover {
+    font-size: 20px;
+}

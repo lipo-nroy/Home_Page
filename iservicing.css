@@ -1,0 +1,16 @@
+.service {
+	padding: 40px;
+    background-color: rgb(253, 105, 129);
+}
+.service-flex-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	gap: 40px;
+}
+.service-flex-item {
+	border-radius: 10px;
+	height: 200px;
+	width: 200px;
+	background-color: #ddddf8;
+}

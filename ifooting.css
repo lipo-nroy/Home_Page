@@ -1,0 +1,27 @@
+.ifooting {
+	background-color: lightslategray;
+	padding: 25px;
+}
+.ifooting-flex-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.fhead {
+	text-align: center;
+}
+h4 {
+	margin: auto;
+}
+.farea {
+	background-color: none;
+}
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+
+}
+li {
+	padding-top: 10px;
+}

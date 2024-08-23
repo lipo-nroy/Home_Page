@@ -1,0 +1,27 @@
+.irooming {
+	background-color: indigo;
+	padding: 60px;
+  }
+  
+  .irooming-flex-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	gap: 60px;
+  }
+
+  .irooming-flex-item {
+		height: 400px;
+		width: 100%;
+		background-color: white;
+  }
+
+  .image {
+	height: 70%;
+	background-color: grey;
+  }
+  
+  .information {
+	height: 30%;
+	background-color: #ddddf8;
+  }
